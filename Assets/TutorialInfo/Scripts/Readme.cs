@@ -8,6 +8,7 @@ public class Readme : ScriptableObject
     public Section[] sections;
     public bool loadedLayout;
 
+
     [Serializable]
     public class Section
     {
